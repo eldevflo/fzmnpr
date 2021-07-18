@@ -1,5 +1,5 @@
 - 👋 Hi, I’m fatemeh
-- 👀 I’m interested in ...
+- 👀 I’m interested in front end developing
 - 🌱 I’m currently learning React js
 - 💞️ I’m seeking new experiences and new jobs
 - 📫 How to reach me: f.zamanipour@gmail.com
