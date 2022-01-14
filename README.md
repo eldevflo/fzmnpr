@@ -1,6 +1,6 @@
 - 👋 Hi, I’m fatemeh
 - 👀 I’m interested in front-end developing specially in the area of React.js 
-- 🌱 I constatntly learning and updatng
+- 🌱 I constatntly learning and updating
 - 💞️ I’m seeking new experiences and new jobs
 - 📫 How to reach me: f.zamanipour@gmail.com
 
